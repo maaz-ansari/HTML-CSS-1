@@ -43,8 +43,6 @@
    #beef{background-color: #b93c3b; color:white;}
    #sushi{background-color: #e1ca8d;}
    
-
-/********** Desktop **********/
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
@@ -53,7 +51,6 @@
   }
 }
 
-/********** Tablet **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
@@ -67,7 +64,6 @@
   }
 }
 
-/********** Mobile **********/
 @media (max-width: 767px) {.col-sm-12 {
     float: left;
     background-color: white;
